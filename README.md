@@ -124,7 +124,3 @@ It demonstrates applied systems thinking rather than simple script automation.
 * dataclasses
 * priority queues
 * enum-based state modelling
-
-## Author
-
-Built as an exploration of distributed system concepts and orchestration design patterns.
