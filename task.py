@@ -11,6 +11,5 @@ class Task:
 
     def __post_init__(self):
         self.created_at = time()
-
     def __repr__(self):
         return f"<Task id={self.id[:8]} priority={self.priority}>"
